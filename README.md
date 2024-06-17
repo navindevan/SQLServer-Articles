@@ -6,4 +6,4 @@ Repository featuring comprehensive articles on SQL Server to aid DBAs and develo
 
 ## Table of Contents
 - [Articles]
-  - [Update Statistics in SQL Server](/Update Statistics in SQL Server.md)
+  - [Update Statistics in SQL Server](SQLServer-Articles/Update Statistics in SQL Server.md)
